@@ -1,4 +1,4 @@
-![Alt text](/Host-Static-Website-on-AWS-(1).png)
+
 
 
 
